@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: expense-service
+
+# ZipKin properties
+management:
+  tracing:
+    sampling:
+      properties: 1.0
